@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 using System.IO;
 
 /*
- * Programmer           : Colby Taylor 8466914
- * Project              : MyOwnWebServer A06
+ * Programmer           : Colby Taylor 
  * File                 : Logger.cs
- * Class                : PROG2001 Web Design and Development
  * Date                 : 11/27/2021
  * Description          : this class takes a message and formats 
  *                      : the message to be entered into a log file
