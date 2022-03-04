@@ -8,10 +8,8 @@ using System.Net.Sockets;
 using System.IO;
 
 /*
- * Programmer           : Colby Taylor 8466914
- * Project              : MyOwnWebServer A06
+ * Programmer           : Colby Taylor 
  * File                 : Program.cs
- * Class                : PROG2001 Web Design and Development
  * Date                 : 11/27/2021
  * Description          : The creation of a single threaded web server.
  *                      : once the server is started with a correct file
