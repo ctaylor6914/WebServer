@@ -9,10 +9,8 @@ using System.Threading;
 using System.IO;
 
 /*
- * Programmer           : Colby Taylor 8466914
- * Project              : MyOwnWebServer A06
+ * Programmer           : Colby Taylor 
  * File                 : Listener.cs
- * Class                : PROG2001 Web Design and Development
  * Date                 : 11/27/2021
  * Description          : this class takes the webRoot, webIP, webPort
  *                      : and starts a perpetual loop listeneing for
