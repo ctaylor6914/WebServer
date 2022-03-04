@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 using System.IO;
 
 /*
- * Programmer           : Colby Taylor 8466914
- * Project              : MyOwnWebServer A06
+ * Programmer           : Colby Taylor 
  * File                 : HandleRequest.cs
- * Class                : PROG2001 Web Design and Development
  * Date                 : 11/27/2021
  * Description          : This class uses a method called process()
  *                      : which parses the incoming request string using
